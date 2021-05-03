@@ -1,0 +1,8 @@
+﻿  3.0.1.3.2D_Objects_20.cpp
+C:\Users\korei\OneDrive\바탕 화면\cse2021spring\computer_graphics\HW_2\HW_2\3.0.1.3.2D_Objects_20.cpp(778,76): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\korei\OneDrive\바탕 화면\cse2021spring\computer_graphics\HW_2\HW_2\3.0.1.3.2D_Objects_20.cpp(779,85): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\korei\OneDrive\바탕 화면\cse2021spring\computer_graphics\HW_2\HW_2\3.0.1.3.2D_Objects_20.cpp(781,97): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\korei\OneDrive\바탕 화면\cse2021spring\computer_graphics\HW_2\HW_2\3.0.1.3.2D_Objects_20.cpp(1034,35): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  LoadShaders.cpp
+  Generating Code...
+  HW_2.vcxproj -> C:\Users\korei\OneDrive\바탕 화면\cse2021spring\computer_graphics\HW_2\Debug\HW_2.exe
